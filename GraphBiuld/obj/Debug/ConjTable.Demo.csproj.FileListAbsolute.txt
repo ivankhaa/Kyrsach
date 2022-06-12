@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\ConjTableSolution\ConjTableSolution\ConjTable.Demo\bin\Debug\ConjTable.Demo.exe.config
+C:\Users\Admin\Downloads\ConjTableSolution\ConjTableSolution\ConjTable.Demo\bin\Debug\ConjTable.Demo.exe
+C:\Users\Admin\Downloads\ConjTableSolution\ConjTableSolution\ConjTable.Demo\bin\Debug\ConjTable.Demo.pdb
+C:\Users\Admin\Downloads\ConjTableSolution\ConjTableSolution\ConjTable.Demo\bin\Debug\ConjTable.dll
+C:\Users\Admin\Downloads\ConjTableSolution\ConjTableSolution\ConjTable.Demo\bin\Debug\ConjTable.pdb
+C:\Users\Admin\Downloads\ConjTableSolution\ConjTableSolution\ConjTable.Demo\obj\Debug\ConjTable.Demo.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\ConjTableSolution\ConjTableSolution\ConjTable.Demo\obj\Debug\ConjTable.Demo.Properties.Resources.resources
+C:\Users\Admin\Downloads\ConjTableSolution\ConjTableSolution\ConjTable.Demo\obj\Debug\ConjTable.Demo.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\ConjTableSolution\ConjTableSolution\ConjTable.Demo\obj\Debug\ConjTable.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ConjTableSolution\ConjTableSolution\ConjTable.Demo\obj\Debug\ConjTable.Demo.csproj.CopyComplete
+C:\Users\Admin\Downloads\ConjTableSolution\ConjTableSolution\ConjTable.Demo\obj\Debug\ConjTable.Demo.exe
+C:\Users\Admin\Downloads\ConjTableSolution\ConjTableSolution\ConjTable.Demo\obj\Debug\ConjTable.Demo.pdb
+C:\Users\Admin\Downloads\ConjTableSolution\ConjTableSolution\ConjTable.Demo\obj\Debug\ConjTable.Demo.MainForm.resources
