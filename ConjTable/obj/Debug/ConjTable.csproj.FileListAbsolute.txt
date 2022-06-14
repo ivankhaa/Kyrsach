@@ -19,3 +19,11 @@ C:\Users\Admin\Desktop\КП\ConjTable\obj\Debug\ConjTable.csproj.CoreCompileInpu
 C:\Users\Admin\Desktop\КП\ConjTable\obj\Debug\ConjTable.csproj.CopyComplete
 C:\Users\Admin\Desktop\КП\ConjTable\obj\Debug\ConjTable.dll
 C:\Users\Admin\Desktop\КП\ConjTable\obj\Debug\ConjTable.pdb
+D:\GitHub\Kyrsach\ConjTable\bin\Debug\ConjTable.dll
+D:\GitHub\Kyrsach\ConjTable\bin\Debug\ConjTable.pdb
+D:\GitHub\Kyrsach\ConjTable\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\GitHub\Kyrsach\ConjTable\obj\Debug\ConjTable.csprojAssemblyReference.cache
+D:\GitHub\Kyrsach\ConjTable\obj\Debug\ConjTable.csproj.CoreCompileInputs.cache
+D:\GitHub\Kyrsach\ConjTable\obj\Debug\ConjTable.csproj.CopyComplete
+D:\GitHub\Kyrsach\ConjTable\obj\Debug\ConjTable.dll
+D:\GitHub\Kyrsach\ConjTable\obj\Debug\ConjTable.pdb

@@ -40,3 +40,17 @@ C:\Users\Admin\Desktop\КП\GraphBiuld\obj\Debug\GraphBiuld.csproj.CoreCompileIn
 C:\Users\Admin\Desktop\КП\GraphBiuld\obj\Debug\GraphBiuld.csproj.CopyComplete
 C:\Users\Admin\Desktop\КП\GraphBiuld\obj\Debug\GraphBiuld.exe
 C:\Users\Admin\Desktop\КП\GraphBiuld\obj\Debug\GraphBiuld.pdb
+D:\GitHub\Kyrsach\GraphBiuld\bin\Debug\GraphBiuld.exe.config
+D:\GitHub\Kyrsach\GraphBiuld\bin\Debug\GraphBiuld.exe
+D:\GitHub\Kyrsach\GraphBiuld\bin\Debug\GraphBiuld.pdb
+D:\GitHub\Kyrsach\GraphBiuld\bin\Debug\ConjTable.dll
+D:\GitHub\Kyrsach\GraphBiuld\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\GitHub\Kyrsach\GraphBiuld\bin\Debug\ConjTable.pdb
+D:\GitHub\Kyrsach\GraphBiuld\obj\Debug\GraphBiuld.csprojAssemblyReference.cache
+D:\GitHub\Kyrsach\GraphBiuld\obj\Debug\GraphBiuld.MainForm.resources
+D:\GitHub\Kyrsach\GraphBiuld\obj\Debug\GraphBiuld.Properties.Resources.resources
+D:\GitHub\Kyrsach\GraphBiuld\obj\Debug\GraphBiuld.csproj.GenerateResource.cache
+D:\GitHub\Kyrsach\GraphBiuld\obj\Debug\GraphBiuld.csproj.CoreCompileInputs.cache
+D:\GitHub\Kyrsach\GraphBiuld\obj\Debug\GraphBiuld.csproj.CopyComplete
+D:\GitHub\Kyrsach\GraphBiuld\obj\Debug\GraphBiuld.exe
+D:\GitHub\Kyrsach\GraphBiuld\obj\Debug\GraphBiuld.pdb

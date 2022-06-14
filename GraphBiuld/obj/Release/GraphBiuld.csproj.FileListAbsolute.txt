@@ -1,0 +1,14 @@
+D:\GitHub\Kyrsach\GraphBiuld\bin\Release\GraphBiuld.exe.config
+D:\GitHub\Kyrsach\GraphBiuld\bin\Release\GraphBiuld.exe
+D:\GitHub\Kyrsach\GraphBiuld\bin\Release\GraphBiuld.pdb
+D:\GitHub\Kyrsach\GraphBiuld\bin\Release\ConjTable.dll
+D:\GitHub\Kyrsach\GraphBiuld\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+D:\GitHub\Kyrsach\GraphBiuld\bin\Release\ConjTable.pdb
+D:\GitHub\Kyrsach\GraphBiuld\obj\Release\GraphBiuld.csprojAssemblyReference.cache
+D:\GitHub\Kyrsach\GraphBiuld\obj\Release\GraphBiuld.MainForm.resources
+D:\GitHub\Kyrsach\GraphBiuld\obj\Release\GraphBiuld.Properties.Resources.resources
+D:\GitHub\Kyrsach\GraphBiuld\obj\Release\GraphBiuld.csproj.GenerateResource.cache
+D:\GitHub\Kyrsach\GraphBiuld\obj\Release\GraphBiuld.csproj.CoreCompileInputs.cache
+D:\GitHub\Kyrsach\GraphBiuld\obj\Release\GraphBiuld.csproj.CopyComplete
+D:\GitHub\Kyrsach\GraphBiuld\obj\Release\GraphBiuld.exe
+D:\GitHub\Kyrsach\GraphBiuld\obj\Release\GraphBiuld.pdb

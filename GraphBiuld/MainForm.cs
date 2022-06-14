@@ -160,32 +160,15 @@ namespace GraphBiuld
 
         private void compareButton1_ClicK(object sender, EventArgs e)
         {
-            string nEquival = "";
-            string Equival = "";
-            if (informGraph1[0] == informGraph2[0])
-                Equival += "Количеством вершин; " + Environment.NewLine;
+            bool nEquival = false;
+            if (informGraph1[2] != informGraph2[2])
+                nEquival = true;
+            else if (informGraph1[3] != informGraph2[3])
+                nEquival = true;
+            if (!nEquival)
+                Output.Text = s1 + s2 + "Графы эквивалентны";
             else
-                nEquival += "Количеством вершин; " + Environment.NewLine;
-            if (informGraph1[1] == informGraph2[1])
-                Equival += "Количеством ребер; " + Environment.NewLine;
-            else
-                nEquival += "Количеством ребер; " + Environment.NewLine;
-            if (informGraph1[2] == informGraph2[2])
-                Equival += "Мощностью графа; " + Environment.NewLine;
-            else
-                nEquival += "Мощностью графа; " + Environment.NewLine;
-            if (informGraph1[3] == informGraph2[3])
-                Equival += "Количеством полных подграфов; " + Environment.NewLine;
-            else
-                nEquival += "Количеством полных подграфов; " + Environment.NewLine;
-            if (nEquival == "")
-                Output.Text += "Графы полностью эквивалентны";
-            else if (Equival == "")
-                Output.Text = s1 + s2 + "Графы полностью неэквивалентны";
-            else
-                Output.Text = s1 + s2 + "Графы эквивалентны за: " + Environment.NewLine + Equival + Environment.NewLine + "Графы неэквивалентны за: " + Environment.NewLine + nEquival;
-
-
+                Output.Text = s1 + s2 + "Графы не эквивалентны";
         }
 
         private void textFI_TextChanged(object sender, KeyPressEventArgs e)

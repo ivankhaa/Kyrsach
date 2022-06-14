@@ -1,29 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\КП\\TestProject1\\TestProject1.csproj": {}
+    "D:\\GitHub\\Kyrsach\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\КП\\ConjTable\\ConjTable.csproj": {
+    "D:\\GitHub\\Kyrsach\\ConjTable\\ConjTable.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\КП\\ConjTable\\ConjTable.csproj",
+        "projectUniqueName": "D:\\GitHub\\Kyrsach\\ConjTable\\ConjTable.csproj",
         "projectName": "ConjTable",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\КП\\ConjTable\\ConjTable.csproj"
+        "projectPath": "D:\\GitHub\\Kyrsach\\ConjTable\\ConjTable.csproj"
       },
       "frameworks": {
         "net40": {}
       }
     },
-    "C:\\Users\\Admin\\Desktop\\КП\\GraphBiuld\\GraphBiuld.csproj": {
+    "D:\\GitHub\\Kyrsach\\GraphBiuld\\GraphBiuld.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\КП\\GraphBiuld\\GraphBiuld.csproj",
+        "projectUniqueName": "D:\\GitHub\\Kyrsach\\GraphBiuld\\GraphBiuld.csproj",
         "projectName": "GraphBiuld",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\КП\\GraphBiuld\\GraphBiuld.csproj",
+        "projectPath": "D:\\GitHub\\Kyrsach\\GraphBiuld\\GraphBiuld.csproj",
         "frameworks": {
           "net45": {
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\КП\\ConjTable\\ConjTable.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\КП\\ConjTable\\ConjTable.csproj"
+              "D:\\GitHub\\Kyrsach\\ConjTable\\ConjTable.csproj": {
+                "projectPath": "D:\\GitHub\\Kyrsach\\ConjTable\\ConjTable.csproj"
               }
             }
           }
@@ -33,14 +33,14 @@
         "net45": {}
       }
     },
-    "C:\\Users\\Admin\\Desktop\\КП\\TestProject1\\TestProject1.csproj": {
+    "D:\\GitHub\\Kyrsach\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\КП\\TestProject1\\TestProject1.csproj",
+        "projectUniqueName": "D:\\GitHub\\Kyrsach\\TestProject1\\TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\КП\\TestProject1\\TestProject1.csproj",
+        "projectPath": "D:\\GitHub\\Kyrsach\\TestProject1\\TestProject1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\КП\\TestProject1\\obj\\",
+        "outputPath": "D:\\GitHub\\Kyrsach\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,8 +61,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\КП\\GraphBiuld\\GraphBiuld.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\КП\\GraphBiuld\\GraphBiuld.csproj"
+              "D:\\GitHub\\Kyrsach\\GraphBiuld\\GraphBiuld.csproj": {
+                "projectPath": "D:\\GitHub\\Kyrsach\\GraphBiuld\\GraphBiuld.csproj"
               }
             }
           }

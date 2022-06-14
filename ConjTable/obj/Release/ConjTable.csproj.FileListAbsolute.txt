@@ -1,0 +1,8 @@
+D:\GitHub\Kyrsach\ConjTable\bin\Release\ConjTable.dll
+D:\GitHub\Kyrsach\ConjTable\bin\Release\ConjTable.pdb
+D:\GitHub\Kyrsach\ConjTable\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+D:\GitHub\Kyrsach\ConjTable\obj\Release\ConjTable.csprojAssemblyReference.cache
+D:\GitHub\Kyrsach\ConjTable\obj\Release\ConjTable.csproj.CoreCompileInputs.cache
+D:\GitHub\Kyrsach\ConjTable\obj\Release\ConjTable.csproj.CopyComplete
+D:\GitHub\Kyrsach\ConjTable\obj\Release\ConjTable.dll
+D:\GitHub\Kyrsach\ConjTable\obj\Release\ConjTable.pdb
